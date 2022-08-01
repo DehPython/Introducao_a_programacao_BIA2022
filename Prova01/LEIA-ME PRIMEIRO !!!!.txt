@@ -1,0 +1,9 @@
+Quero deixar avisado que todos os programas feitos foram feitos na IDE Jupyter Notebook, sendo assim, o mesmo deve ser executado somente em formado .ipynb
+
+Em alguns codigos foi usado o comando display(), ao inves de print(), o comando display funciona (até onde eu sei) apenas no formato do jupyter, por isso reforço, para que tudo seja executado e principalmente visualizado de maneira correta, recomenda-se executar tudo em jupyter Notebook.
+
+Ademais todos os aquivos em .xlsx foram criados e feitos no libreOffice Calc
+
+O arquivo com o nome dadosceia.xlsx, recomenda-se que não edite afim de que ele continue com os resultados esperados da questão 5.
+
+O arquivo com o nome dadosceiafuturo.xlsx, pode e devê ser editado pelo usuario afim de poder testar como o programa está funcionando na questão 5.
